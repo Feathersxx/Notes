@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# VSCode
+.vscode/
+.history/
+*.code-workspace
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.Python
+env/
+venv/
+ENV/
+.venv/
+*.manifest
+*.spec
+
+# Virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs
+*.log
+
+# Others
+.idea/
+dist/
+build/
+coverage/
+*.swp
+*.swo
